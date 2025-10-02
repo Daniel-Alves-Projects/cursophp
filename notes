@@ -9,3 +9,12 @@ const NOME = "valor"
 Métodos padrão de nomenclatura de variáveis e constantes:
 Camel Case = $nomeCompletoCliente
 Snake Case = $nome_completo_cliente
+
+
+Strings em PHP:
+\n Nova Linha
+\t Tabulação horizontal
+\\ Barra invertida
+\$ Pra mostrar o cifrão ao inves de interpretar como variavel.
+\u{} Code point Unicode. (Caracteres unicode)
+
