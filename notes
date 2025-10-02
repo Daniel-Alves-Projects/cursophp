@@ -1,0 +1,11 @@
+Variaveis:
+$nome = "valor";
+
+Constantes:
+const NOME = "valor"
+
+(Por questoes de boas práticas utilizar sempre letra maiúscula para nomes de constantes e minúsculas para nomes de variáveis.);
+
+Métodos padrão de nomenclatura de variáveis e constantes:
+Camel Case = $nomeCompletoCliente
+Snake Case = $nome_completo_cliente
