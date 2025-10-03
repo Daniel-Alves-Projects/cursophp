@@ -18,3 +18,4 @@ Strings em PHP:
 \$ Pra mostrar o cifrão ao inves de interpretar como variavel.
 \u{} Code point Unicode. (Caracteres unicode)
 
+Para concatenação de strings usa-se . (ponto).
