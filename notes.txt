@@ -19,3 +19,12 @@ Strings em PHP:
 \u{} Code point Unicode. (Caracteres unicode)
 
 Para concatenação de strings usa-se . (ponto).
+
+operador de raiza quadrada:
+
+
+	$r = sqrt(81);
+	print("A resposta é $r");
+
+    Desafios:
+    
